@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I’m Abdullah 👋
+# Hi, I’m Abdullah Tahir👋
 
 **Artificial Intelligence undergraduate at FAST-NUCES · Class of 2024
 **
