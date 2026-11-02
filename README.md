@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Ch-Abdullah-Tahir/Ch-Abdullah-Tahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I’m Abdullah 👋
 
-Here are some ideas to get you started:
+**Artificial Intelligence undergraduate at FAST-NUCES · Class of 2024
+**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m building my skills through coursework and hands-on projects.
+
+</div>
+
+---
+
+### Featured projects
+
+- **[House Price Prediction](https://github.com/Ch-Abdullah-Tahir/House-price-prediction)**  
+  A machine-learning course project using Python, NumPy, pandas, Matplotlib, Seaborn, and scikit-learn.
+
+- **[Database Systems & Project Management](https://github.com/Ch-Abdullah-Tahir/Database-Systems-Construction-Project-Management)**  
+  A database systems and project-management course project.
+
+### Technologies
+
+`Python` · `NumPy` · `pandas` · `Matplotlib` · `Seaborn` · `scikit-learn`
+
+---
+
+<div align="center">
+  <sub>Thanks for stopping by!</sub>
+</div>
