@@ -18,7 +18,7 @@ I’m building my skills through coursework and hands-on projects.
 
 - **[Database Systems & Project Management](https://github.com/Ch-Abdullah-Tahir/Database-Systems-Construction-Project-Management)**  
   A database systems and project-management course project.
-- **[AI Calling Agent]([https://github.com/Ch-Abdullah-Tahir/Database-Systems-Construction-Project-Management](https://github.com/Ch-Abdullah-Tahir/dine-elegance-crafted))**  
+- **[AI Calling Agent]([(https://github.com/Ch-Abdullah-Tahir/dine-elegance-crafted))**  
   A restaurant website with an AI voice agent for reservations.
 ### Technologies
 
