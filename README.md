@@ -21,7 +21,7 @@ I’m building my skills through coursework and hands-on projects.
 
 ### Technologies
 
-`Python` · `NumPy` · `pandas` · `Matplotlib` · `Seaborn` · `scikit-learn`
+`n8n` · `Python` · `NumPy` · `pandas` · `Matplotlib` · `Seaborn` · `scikit-learn`
 
 ---
 
